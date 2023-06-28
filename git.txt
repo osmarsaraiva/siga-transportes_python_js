@@ -32,4 +32,10 @@ git pull
 Atualizar os arquivos no branch atual
 
 
+python escritorio
+git remote add origin https://github.com/osmarsaraiva/siga-transportes_python_js.git
+git branch -M main
+git push -u origin main
+
+
 
